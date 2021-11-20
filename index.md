@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lqlove67/lqlove67.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lqlove67/lqlove67.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 个人简介（2002010094刘琪）
+姓名：刘琪
+性别：男
+出生年月：2001年10月29日
+籍贯：湖南衡阳
+专业：工商管理
+政治面貌：共青团员
+电子邮件：2596602815@QQ.com
+## 技能总结
+熟练使用word、excel等办公软件，熟练使用dw，英语四级通过
+## 兴趣爱好
+篮球，乒乓球，健身，长跑，游泳，看书，书法
+## 教育背景
+湖南工商大学大二在读
+## 主修课程
+管理学，经济学，逻辑学，微积分，概率论，商务英语，
+## 获奖情况
+篮球新生院赛第四，篮球新生班赛第二
+## 自我评价
+性格开朗，待人热情诚恳，办事用心认真，吃苦耐劳，富有团队精神，勤奋好学，富有爱心，要求上进，敢于不断地挑战自我。作为初学者，我有较强的学习能力，能虚心请教。作为参与者，我诚实可信，富有团队合作精神，有良好的协作能力。我做事认真负责，有抗压能力和强烈的责任和上进心，最大优点是耐心及细心。比较随和，喜欢交朋友的人，注重团队，对工作热情、积极主动、从不倦怠。乐于学习新事物，不断的为自己充电，本人认为人活到老就要学到老，不断的进步。虚心听取别人的意见，取人之长补己之短。不管做什么事情，本人都会全力以赴，孜孜不倦
